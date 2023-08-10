@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TutorialOperator", "TutorialOperator\TutorialOperator.vcxproj", "{7CC5BB9D-90B1-448A-ACB2-690EA607C161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC5BB9D-90B1-448A-ACB2-690EA607C161}.Debug|x64.ActiveCfg = Debug|x64
+		{7CC5BB9D-90B1-448A-ACB2-690EA607C161}.Debug|x64.Build.0 = Debug|x64
+		{7CC5BB9D-90B1-448A-ACB2-690EA607C161}.Debug|x86.ActiveCfg = Debug|Win32
+		{7CC5BB9D-90B1-448A-ACB2-690EA607C161}.Debug|x86.Build.0 = Debug|Win32
+		{7CC5BB9D-90B1-448A-ACB2-690EA607C161}.Release|x64.ActiveCfg = Release|x64
+		{7CC5BB9D-90B1-448A-ACB2-690EA607C161}.Release|x64.Build.0 = Release|x64
+		{7CC5BB9D-90B1-448A-ACB2-690EA607C161}.Release|x86.ActiveCfg = Release|Win32
+		{7CC5BB9D-90B1-448A-ACB2-690EA607C161}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE77CCAC-A116-40B7-839C-E07AAE11B68C}
+	EndGlobalSection
+EndGlobal
