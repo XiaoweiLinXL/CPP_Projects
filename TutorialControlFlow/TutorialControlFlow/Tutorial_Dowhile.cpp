@@ -2,7 +2,7 @@
 using namespace std;
 #include <cmath>
 
-int main5()
+int main6()
 {
 	int i = 100;
 	int count = 0;

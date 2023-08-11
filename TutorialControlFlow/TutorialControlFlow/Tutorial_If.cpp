@@ -14,15 +14,15 @@ using namespace std;
 //	{
 //		if (score > 700)
 //		{
-//			cout << "peking university" << endl;
+//			cout << "Peking University" << endl;
 //		}
 //		else if (score > 650)
 //		{
-//			cout << "tsinghua university" << endl;
+//			cout << "Tsinghua University" << endl;
 //		}
 //		else
 //		{
-//			cout << "renmin university of china" << endl;
+//			cout << "Renmin University of China" << endl;
 //		}
 //		cout << "excellent!" << endl;
 //	}
@@ -40,7 +40,7 @@ using namespace std;
 //	return 0;
 //}
 
-int main1()
+int main2()
 {
 	int a = 0;
 	int b = 0;

@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main3()
+int main4()
 {
 	cout << "Input a score: ";
 	int score = 0;

@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main4() 
+int main5() 
 {
 
 	srand((unsigned int)time(NULL));
