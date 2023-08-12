@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7de4ed34-412d-4cb6-8cc7-c30b097921b9}</ProjectGuid>
+    <ProjectGuid>{9b07b597-89da-4dd9-8425-1491d86a22af}</ProjectGuid>
     <RootNamespace>TutorialStructure</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -139,12 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Tutorial_Structure.cpp" />
-    <ClCompile Include="Tutorial_Structure_Array.cpp" />
-    <ClCompile Include="Tutorial_Structure_Function.cpp" />
-    <ClCompile Include="Tutorial_Structure_Heros.cpp" />
-    <ClCompile Include="Tutorial_Structure_in_Structure.cpp" />
-    <ClCompile Include="Tutorial_Structure_Pointer.cpp" />
+    <ClCompile Include="func_realization.cpp" />
+    <ClCompile Include="struct_1.cpp" />
+    <ClCompile Include="struct_2.cpp" />
+    <ClCompile Include="struct_3.cpp" />
+    <ClCompile Include="struct_4.cpp" />
+    <ClCompile Include="struct_5.cpp" />
+    <ClCompile Include="struct_6.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="func_declaration.h" />
+    <ClInclude Include="struct_declaration.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

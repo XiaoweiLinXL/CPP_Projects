@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{15697905-bbe4-4573-8e5f-987687ea3bba}</ProjectGuid>
+    <ProjectGuid>{5c85cd60-4d8b-46f1-85e9-ddbc3a172a6b}</ProjectGuid>
     <RootNamespace>TutorialPointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -139,10 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Tutorial_Pointer.cpp" />
-    <ClCompile Include="Tutorial_Pointer_Array.cpp" />
-    <ClCompile Include="Tutorial_Pointer_Function.cpp" />
-    <ClCompile Include="Tutorial_Pointer_Sort.cpp" />
+    <ClCompile Include="func_realization.cpp" />
+    <ClCompile Include="pointer_1.cpp" />
+    <ClCompile Include="pointer_2.cpp" />
+    <ClCompile Include="pointer_3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="func_declaration.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
