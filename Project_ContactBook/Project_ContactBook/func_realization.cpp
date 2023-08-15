@@ -178,8 +178,21 @@ void editContact(struct Book* book)
 
 void emptyBook(struct Book* book)
 {
-	book->size = 0;
-	cout << "Empty Book!" << endl;
+	cout << "Are you sure to empty the contact book?" << endl;
+	cout << "yes/no?: ";
+	string input;
+	cin >> input;
+
+	if (input == "yes")
+	{
+		book->size = 0;
+		cout << "Empty Book!" << endl;
+	}
+	else
+	{
+		cout << "Not emptied" << endl;
+	}
+	
 	system("pause");
 	system("cls");
 }

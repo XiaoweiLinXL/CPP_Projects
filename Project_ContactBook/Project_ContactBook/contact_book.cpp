@@ -6,7 +6,6 @@ int main()
 	int selection = 0;
 	struct Book book;
 	book.size = 0;
-	string name;
 
 	while (1)
 	{
@@ -46,7 +45,5 @@ int main()
 			showMenu();
 		}
 	}
-	
-
 	return 0;
 }
