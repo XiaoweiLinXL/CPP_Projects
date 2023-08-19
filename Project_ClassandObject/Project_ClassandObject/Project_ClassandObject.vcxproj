@@ -140,8 +140,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="circle.cpp" />
     <ClCompile Include="encapsulation_1.cpp" />
     <ClCompile Include="encapsulation_2.cpp" />
+    <ClCompile Include="encapsulation_cube.cpp" />
+    <ClCompile Include="encapsulation_pointandcircle.cpp" />
+    <ClCompile Include="point.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="circle.h" />
+    <ClInclude Include="point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

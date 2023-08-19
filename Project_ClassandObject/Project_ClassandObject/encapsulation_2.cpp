@@ -49,7 +49,7 @@ public:
 
 };
 
-int main()
+int main2()
 {
 	Person1 p;
 
