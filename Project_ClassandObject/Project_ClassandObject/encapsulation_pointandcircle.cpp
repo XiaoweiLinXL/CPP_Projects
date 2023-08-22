@@ -1,7 +1,7 @@
 #include "point.h"
 #include "circle.h"
 
-int main()
+int main4()
 {
 	Point p;
 	p.setPoint();

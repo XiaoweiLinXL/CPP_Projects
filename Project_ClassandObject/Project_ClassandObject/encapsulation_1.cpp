@@ -50,30 +50,30 @@ public:
 	}
 };
 
-class Person
-{
-public:
-	string name;
-	
-protected:
-	string car;
-
-private:
-	int password;
-
-public:
-	void setInfo()
-	{
-		name = "Xiaowei";
-		car = "Porsche";
-		password = 123456;
-	}
-
-	void printInfo()
-	{
-		cout << "Name: " << name << ", Car: " << car << ", Password: " << password << endl;;
-	}
-};
+//class Person
+//{
+//public:
+//	string name;
+//	
+//protected:
+//	string car;
+//
+//private:
+//	int password;
+//
+//public:
+//	void setInfo()
+//	{
+//		name = "Xiaowei";
+//		car = "Porsche";
+//		password = 123456;
+//	}
+//
+//	void printInfo()
+//	{
+//		cout << "Name: " << name << ", Car: " << car << ", Password: " << password << endl;;
+//	}
+//};
 
 int main1()
 {
@@ -90,12 +90,12 @@ int main1()
 	//cout << s1.id << endl;
 	//s1.printInfo();
 
-	Person p1;
-	p1.setInfo();
-	p1.printInfo();
+	//Person p1;
+	//p1.setInfo();
+	//p1.printInfo();
 
-	p1.name = "Yilan";
-	p1.printInfo();
+	//p1.name = "Yilan";
+	//p1.printInfo();
 
 
 	return 0;

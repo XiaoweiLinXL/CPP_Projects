@@ -1,3 +1,2 @@
-﻿  circle.cpp
-C:\Users\xiaoweilin\Desktop\CPP_Projects\Project_ClassandObject\Project_ClassandObject\circle.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+﻿  person.cpp
   Project_ClassandObject.vcxproj -> C:\Users\xiaoweilin\Desktop\CPP_Projects\Project_ClassandObject\Debug\Project_Encapsulation.exe
