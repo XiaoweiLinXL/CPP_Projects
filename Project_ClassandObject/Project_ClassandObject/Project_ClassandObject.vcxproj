@@ -148,12 +148,18 @@
     <ClCompile Include="initializationanddestruction_1.cpp" />
     <ClCompile Include="initializationanddestruction_2.cpp" />
     <ClCompile Include="initializationanddestruction_deepandshallowcopy.cpp" />
+    <ClCompile Include="initializationanddestruction_initializerlist.cpp" />
+    <ClCompile Include="initializationanddestruction_objectasamember.cpp" />
+    <ClCompile Include="initializationanddestruction_staticmembervariable.cpp" />
     <ClCompile Include="person.cpp" />
+    <ClCompile Include="phone.cpp" />
     <ClCompile Include="point.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="circle.h" />
     <ClInclude Include="perosn.h" />
+    <ClInclude Include="phone.h" />
     <ClInclude Include="point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

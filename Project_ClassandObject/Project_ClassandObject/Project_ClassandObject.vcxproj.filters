@@ -45,6 +45,21 @@
     <ClCompile Include="initializationanddestruction_deepandshallowcopy.cpp">
       <Filter>Source</Filter>
     </ClCompile>
+    <ClCompile Include="initializationanddestruction_initializerlist.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="initializationanddestruction_objectasamember.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="phone.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="initializationanddestruction_staticmembervariable.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
@@ -54,6 +69,9 @@
       <Filter>Header</Filter>
     </ClInclude>
     <ClInclude Include="perosn.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="phone.h">
       <Filter>Header</Filter>
     </ClInclude>
   </ItemGroup>
