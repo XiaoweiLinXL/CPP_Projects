@@ -60,6 +60,30 @@
     <ClCompile Include="initializationanddestruction_staticmembervariable.cpp">
       <Filter>Source</Filter>
     </ClCompile>
+    <ClCompile Include="objectmodelandthispointer_separatestoring.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="objectmodelandthispointer_thispointer.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="objectmodelandthispointer_nullpointeraccessingmemberfunc.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="objectmodelandthispointer_constfuncandconstobject.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="friend_globalfuncasfriend.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="friend_classasfriend.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="friend_memberfuncasfriend.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="operatoroverload_plus.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
