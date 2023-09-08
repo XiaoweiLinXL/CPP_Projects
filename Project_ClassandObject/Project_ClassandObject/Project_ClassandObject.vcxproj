@@ -148,6 +148,7 @@
     <ClCompile Include="friend_classasfriend.cpp" />
     <ClCompile Include="friend_globalfuncasfriend.cpp" />
     <ClCompile Include="friend_memberfuncasfriend.cpp" />
+    <ClCompile Include="inheritance_1.cpp" />
     <ClCompile Include="initializationanddestruction_1.cpp" />
     <ClCompile Include="initializationanddestruction_2.cpp" />
     <ClCompile Include="initializationanddestruction_deepandshallowcopy.cpp" />
@@ -158,7 +159,12 @@
     <ClCompile Include="objectmodelandthispointer_nullpointeraccessingmemberfunc.cpp" />
     <ClCompile Include="objectmodelandthispointer_separatestoring.cpp" />
     <ClCompile Include="objectmodelandthispointer_thispointer.cpp" />
+    <ClCompile Include="operatoroverload_assignment.cpp" />
+    <ClCompile Include="operatoroverload_funccalling.cpp" />
+    <ClCompile Include="operatoroverload_increment.cpp" />
+    <ClCompile Include="operatoroverload_leftshift.cpp" />
     <ClCompile Include="operatoroverload_plus.cpp" />
+    <ClCompile Include="operatoroverload_relationship.cpp" />
     <ClCompile Include="person.cpp" />
     <ClCompile Include="phone.cpp" />
     <ClCompile Include="point.cpp" />

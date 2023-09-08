@@ -84,6 +84,24 @@
     <ClCompile Include="operatoroverload_plus.cpp">
       <Filter>Source</Filter>
     </ClCompile>
+    <ClCompile Include="operatoroverload_leftshift.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="operatoroverload_increment.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="operatoroverload_assignment.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="operatoroverload_relationship.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="operatoroverload_funccalling.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="inheritance_1.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
