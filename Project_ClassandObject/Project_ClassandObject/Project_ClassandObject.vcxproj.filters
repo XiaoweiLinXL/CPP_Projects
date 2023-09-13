@@ -102,6 +102,24 @@
     <ClCompile Include="inheritance_1.cpp">
       <Filter>Source</Filter>
     </ClCompile>
+    <ClCompile Include="inheritance_howtoinherit.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="inheritance_memberwithsamenames.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="inheritance_staticmember.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="inheritance_multiplebase.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="inheritance_diamondinheritance.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="polymorphism_1.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">

@@ -149,6 +149,11 @@
     <ClCompile Include="friend_globalfuncasfriend.cpp" />
     <ClCompile Include="friend_memberfuncasfriend.cpp" />
     <ClCompile Include="inheritance_1.cpp" />
+    <ClCompile Include="inheritance_diamondinheritance.cpp" />
+    <ClCompile Include="inheritance_howtoinherit.cpp" />
+    <ClCompile Include="inheritance_memberwithsamenames.cpp" />
+    <ClCompile Include="inheritance_multiplebase.cpp" />
+    <ClCompile Include="inheritance_staticmember.cpp" />
     <ClCompile Include="initializationanddestruction_1.cpp" />
     <ClCompile Include="initializationanddestruction_2.cpp" />
     <ClCompile Include="initializationanddestruction_deepandshallowcopy.cpp" />
@@ -168,6 +173,7 @@
     <ClCompile Include="person.cpp" />
     <ClCompile Include="phone.cpp" />
     <ClCompile Include="point.cpp" />
+    <ClCompile Include="polymorphism_1.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
