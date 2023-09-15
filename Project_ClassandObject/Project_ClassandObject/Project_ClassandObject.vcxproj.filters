@@ -120,6 +120,9 @@
     <ClCompile Include="polymorphism_1.cpp">
       <Filter>Source</Filter>
     </ClCompile>
+    <ClCompile Include="polymorphism_calculator.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
