@@ -173,8 +173,10 @@
     <ClCompile Include="person.cpp" />
     <ClCompile Include="phone.cpp" />
     <ClCompile Include="point.cpp" />
+    <ClCompile Include="polymorphism_(pure)virtualdestructor.cpp" />
     <ClCompile Include="polymorphism_1.cpp" />
     <ClCompile Include="polymorphism_calculator.cpp" />
+    <ClCompile Include="polymorphism_drink.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
