@@ -129,6 +129,9 @@
     <ClCompile Include="polymorphism_(pure)virtualdestructor.cpp">
       <Filter>Source</Filter>
     </ClCompile>
+    <ClCompile Include="polymorphism_computer.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="point.h">
