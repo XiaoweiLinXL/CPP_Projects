@@ -140,7 +140,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Class_template.cpp" />
+    <ClCompile Include="Class_template_and_friend.cpp" />
+    <ClCompile Include="Class_template_inheritance.cpp" />
+    <ClCompile Include="Class_template_separate_file.cpp" />
     <ClCompile Include="Function_template.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Person.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
