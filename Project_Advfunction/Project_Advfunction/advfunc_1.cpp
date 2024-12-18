@@ -2,7 +2,7 @@
 
 int main()
 {
-	//int a = 10;
+	int a = 10;
 	func(10);
 
 	return 0;

@@ -9,7 +9,7 @@ void test03(const int& a)
 	cout << a << endl;
 }
 
-int main()
+int main3()
 {
 	int a = 100;
 

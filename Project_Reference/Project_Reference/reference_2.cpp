@@ -22,7 +22,7 @@ int& test02()
 	return a;
 }
 
-int main2()
+int main()
 {
 	int a = 10;
 	int b = 20;

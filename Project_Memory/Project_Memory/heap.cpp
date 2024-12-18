@@ -9,6 +9,7 @@ int* func()
 	// if you create a pointer to store this address, the pointer is stored on the stack
 	int* p = new int(10);
 	cout << (int)&p << endl;
+	cout << (int)*p << endl;
 	return p;
 }
 
@@ -16,9 +17,9 @@ void test01()
 {
 	int* p = func();
 	cout << *p << endl;
-	cout << *p << endl;
 
-	// you can delete the data by deleting the address
+	// you can delete the data by deleting the address, 
+	// after deleting, arr becomes a wild pointer, the address it points to is not accessible.
 	delete p;
 }
 
@@ -31,11 +32,11 @@ int* test02()
 		arr[i] = i + 10;
 	}
 
-	// after deleting, arr becomes a wild pointer, the address it points to is not accessible.
-	delete[] arr;
+	//// after deleting, arr becomes a wild pointer, the address it points to is not accessible.
+	//delete[] arr;
 
 
-	cout << arr << endl;
+	//cout << arr << endl;
 
 	return arr;
 }
@@ -59,19 +60,19 @@ int main()
 	int* p = func();
 
 	// this should be a the address on the heap
-	cout << (int)p << endl;
+	cout << (int)*p << endl;
 	cout << (int)&p << endl;
-	cout << *p << endl;
-	cout << *p << endl;
+	//cout << *p << endl;
+	//cout << *p << endl;
 
-	// release the heap
+	//// release the heap
 
-	int a = 10;
-	cout << (int)&a << endl;
+	//int a = 10;
+	//cout << (int)&a << endl;
 
-	cout << (int)&g_c << endl;
+	//cout << (int)&g_c << endl;
 
-	test01();
+	//test01();
 
 	int* main_arr = test02();
 
