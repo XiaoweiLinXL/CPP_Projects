@@ -13,7 +13,6 @@ private:
 public:
 	MyArray(int capacity)
 	{
-		cout << endl;
 		cout << "constructor with parameter" << endl;
 		this->m_Capacity = capacity;
 		this->m_Size = 0;
