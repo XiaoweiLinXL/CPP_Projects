@@ -1,0 +1,13 @@
+﻿  test.cpp
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(123,27): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(160,14): warning C4018: '<=': signed/unsigned mismatch
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(207,14): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(226,23): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(235,23): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(242,35): warning C4018: '<': signed/unsigned mismatch
+E:\Desktop\CPP_Projects\Tutorial_STL_list\Tutorial_STL_list\test.cpp(281,35): warning C4018: '<': signed/unsigned mismatch
+  Tutorial_STL_list.vcxproj -> E:\Desktop\CPP_Projects\Tutorial_STL_list\Debug\Tutorial_STL_list.exe
